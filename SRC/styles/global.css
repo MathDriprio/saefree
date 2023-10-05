@@ -1,0 +1,8 @@
+/* Classe génériques */
+
+.flexbox-flox{display: flex;}
+.flexbox{padding-top: 20%;}
+.texte_tech-height-small{height: 10px;}
+.texte_tech-height-big{height: 30px;}
+.texte_tech{margin: 10px;margin-left: 100px;padding: 10px;margin-bottom: auto;background-color:aliceblue;}
+/*.texte_tech-width{width: 150px}*/

@@ -1,0 +1,194 @@
+/* Imports CSS */
+
+/** Definition des variables
+  * pour definir une varibale --<nom variable>
+  * pour utiliser une varubale var(--<nom variable>)
+*/
+
+:root {
+  --body-content-padding: 50px 0 50px 0;
+  --navbar-margin: 13vw;
+}
+
+.content {
+  min-height: calc(100% - 150px);  /* Adaptez "150px" à la hauteur de votre footer si elle est différente. */
+}
+
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Poppins", sans-serif;
+  background-color: rgba(77, 77, 117, 0.192);
+
+  /* Pour navbar */
+  display: flex;
+}
+
+.container {
+  max-width: 1050px;
+  width: 90%;
+  margin: auto;
+}
+
+/* START NAVBAR */
+.navbar {
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  width: var(--navbar-margin);
+  box-shadow: 0 1px 4px rgb(146 161 176 / 15%);
+  background-color: rgba(52,73,94,255);
+}
+
+.navbar .logo img {
+  width: 100%;
+}
+
+.navbar ul {
+  margin-top: 50px;
+}
+
+.navbar li {
+  transition: all 200ms ease;
+  text-decoration: none;
+  font-style: normal;
+  padding: 15px 20px;
+}
+
+.navbar li:hover {
+  cursor: pointer;
+  background: rgb(101, 107, 113);
+}
+
+.navbar li.active {
+  background: rgb(60, 64, 68);
+}
+
+.navbar li a {
+  text-decoration: none;
+  font-style: normal;
+  color: white;
+}
+
+/* END NAVBAR */
+
+body {
+  background-image: url("../Image/backgroud_site1.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-origin: border-box;
+  overflow-x: hidden;
+}
+
+h1 {
+  color: rgb(241,196,15,255);
+  text-align: center;
+  padding: 10px 10px;
+}
+
+main {
+  padding-left: var(--navbar-margin);
+}
+
+.boxAlexisWrapper {
+  width: 100vw;
+  margin-top: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+} 
+
+.boxAlexis {
+  background-color: rgba(52,73,94,255);
+  align-items: start;
+  justify-content: space-between;
+  text-align: center;
+  max-width: max-content;
+}
+
+/* Fonctionnement body (pour la page Alexis) */
+
+.body-content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: var(--body-content-padding);
+  width: calc(100vw - var(--navbar-margin));
+}
+
+.body-text {
+  background: white;
+  margin-right: 50px;
+  width: 30vw;
+  padding: 20px;
+  border-radius: 8px;
+}
+
+.body-image-wrapper, .body-image-wrapper > img {
+  width: 500px;
+  height: 500px;
+}
+
+/* Styles du footer */
+
+footer {
+  position: relative;
+  bottom: 0%;
+  background-color: rgba(52,73,94,255);
+  color: rgba(241,196,15,255);
+  padding: 20px 0;
+  font-size: 14px;
+  width: 100%;
+}
+
+footer .container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 15px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+footer nav {
+  margin-top: 10px;
+}
+
+footer nav a {
+  color: rgba(241,196,15,255);
+  text-decoration: none;
+  margin: 0 10px;
+  font-weight: bold;
+}
+
+footer nav a:hover {
+  text-decoration: underline;
+}
+
+.social-media {
+  display: flex;
+  margin-top: 10px;
+}
+
+.social-media a {
+  color: rgba(241,196,15,255);
+  text-decoration: none;
+  margin: 0 10px;
+  display: flex;
+  align-items: center;
+  
+}
+
+.social-media i {
+  margin-right: 5px;
+}
+
+.social-media a:hover {
+  text-decoration: underline;
+}
