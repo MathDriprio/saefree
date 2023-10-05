@@ -304,3 +304,20 @@ position: absolute;
   top: 30%;right: 15%;
   box-shadow: 0 4px 6px rgba(255, 255, 255, 0.15)
 }
+
+#imgAlexis_serv{
+width: 500px;height: 500px;
+padding-bottom: 100px;
+padding-right: 75px;
+box-shadow: 0 4px 6px rgba(255, 255, 255, 0.15);
+margin: 50px;
+}
+/* Base class */
+
+.flexbox-flox{display: flex;}
+
+.flexbox{padding-top: 20%;}
+/*.texte_tech-width{width: 150px}*/
+.texte_tech-height-small{height: 10px;}
+.texte_tech-height-big{height: 30px;}
+.texte_tech{margin: 10px;margin-left: 100px;padding: 10px;margin-bottom: auto;background-color:aliceblue;}
