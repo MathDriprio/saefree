@@ -1,8 +1,7 @@
 # SAE FREE
 
 ## Groupe n°7
-> Membre
-> 
+Membres: 
 > [Mathis Dagbert](mailto:mathis.dagbert@edu.univ-fcomte.fr) ( référent )   
 > 
 > [Alexendre Villani](mailto:alexandre.villani@edu.univ-fcomte.fr)
