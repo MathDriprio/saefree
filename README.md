@@ -11,7 +11,7 @@ Nous somme le groupe **N°7** composé de:
 >
 > [Alexis Violard](mailto:alexis.violard--wilbrett@edu.univ-fcomte.fr)
 >
-> [Timothee Meyer](timothee.meyer02@edu.univ-fcomte.fr)
+> [Timothee Meyer](mailto:timothee.meyer02@edu.univ-fcomte.fr)
 
 ## Présentation
 
