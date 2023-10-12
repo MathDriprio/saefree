@@ -58,7 +58,6 @@ body {
   transition: all 200ms ease;
   text-decoration: none;
   font-style: normal;
-  padding: 15px 20px;
 }
 
 .navbar li:hover {
@@ -74,12 +73,15 @@ body {
   text-decoration: none;
   font-style: normal;
   color: white;
+  width: 100%;
+  display: block;
+  padding: 15px 20px;
 }
 
 /* END NAVBAR */
 
 body {
-  background-image: url("../Image/backgroud_site1.jpg");
+  background-image: url("../images/backgroud_site1.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-origin: border-box;
