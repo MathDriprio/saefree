@@ -9,6 +9,7 @@
 
 :root {
   --body-content-padding: 50px 0 50px 0;
+  --navbar-height: 100px;
   --navbar-margin: 13vw;
   --bg-color: #473e5b;
   --text-color: #d58d91;
@@ -31,12 +32,30 @@ body {
 
   /* Pour navbar */
   display: flex;
+  flex-direction: column;
 }
 
-.container {
-  max-width: 1050px;
-  width: 90%;
-  margin: auto;
+.page-content {
+  display: flex;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 30px;
+  height: var(--navbar-height);
+  background: var(--bg-color);
+  z-index: 2;
+}
+
+header img {
+  max-height: var(--navbar-height);
+}
+
+header .hamburger-menu {
+  height: calc(var(--navbar-height) * .6);
+  cursor: pointer;
 }
 
 /* START NAVBAR */
@@ -44,9 +63,20 @@ body {
   position: fixed;
   top: 0;
   bottom: 0;
+  height: 100%;
+  padding-top: var(--navbar-height);
   width: var(--navbar-margin);
   box-shadow: 0 1px 4px rgb(146 161 176 / 15%);
   background-color: var(--bg-color);
+  transition: all 300ms ease-in-out;
+}
+
+.navbar.hidden {
+  transform: translateX(-100%);
+}
+
+.navbar.hidden ~ main {
+  padding-left: 0;
 }
 
 .navbar .logo img {
@@ -104,6 +134,7 @@ h1 {
 
 main {
   padding-left: var(--navbar-margin);
+  transition: all 300ms ease-in-out;
 }
 
 .boxAlexisWrapper {
