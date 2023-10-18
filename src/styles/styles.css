@@ -161,6 +161,7 @@ main {
   align-items: center;
   padding: var(--body-content-padding);
   width: calc(100vw - var(--navbar-margin));
+  margin: auto;
 }
 
 .body-text {
