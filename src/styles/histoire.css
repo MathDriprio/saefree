@@ -104,7 +104,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: var(--body-content-padding);
+    padding: var(--body-content-pxadding);
     width: calc(100vw - var(--navbar-margin));
     margin: auto;
 }
