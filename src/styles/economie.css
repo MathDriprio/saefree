@@ -1,0 +1,46 @@
+main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+}
+
+main > h1 {
+    background: var(--bg-color);
+    width: max-content;
+    text-align: center;
+    margin-top: 50px;
+    font-size: 3rem;
+}
+
+section.main-content {
+    width: 100%;
+    padding: 0 5rem;
+    margin: 5rem 0;
+}
+
+section.main-content .body-text {
+    background: var(--bg-color);
+    color: var(--text-color);
+}
+
+section.main-content article {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 5rem;
+}
+
+section.main-content article:nth-child(2n) {
+    flex-direction: row-reverse;
+}
+
+section.main-content article:nth-child(2n) .body-text {
+    flex-direction: row-reverse;
+    margin-right: 0;
+    margin-left: 50px;
+}
+
+section.main-content article img {
+    width: 30vw;
+}
