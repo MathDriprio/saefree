@@ -24,6 +24,14 @@ section.main-content .body-text {
     color: var(--text-color);
 }
 
+section.main-content .body-text h2{
+    margin-bottom: 30px;
+}
+
+section.main-content .body-text h2:not(:first-child) {
+    margin-top: 30px;
+}
+
 section.main-content article {
     display: flex;
     justify-content: center;

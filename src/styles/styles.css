@@ -60,7 +60,7 @@ header .hamburger-menu {
 
 /* START NAVBAR */
 .navbar {
-  position: fixed;
+  position: fixed; 
   top: 0;
   bottom: 0;
   height: 100%;
