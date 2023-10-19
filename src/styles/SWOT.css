@@ -1,0 +1,15 @@
+.body-content{
+    display: flex;
+    
+
+}
+h1{
+    margin: auto;
+    padding: auto;
+}
+h2{
+    padding: 10px;
+}
+h3{
+    padding: 5px;
+}
