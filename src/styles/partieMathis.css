@@ -1,0 +1,50 @@
+:root {
+    --bg-color: #473e5b;
+    --text-color: #d58d91;
+}
+
+.partie {
+    display: flex;
+    /* height: auto; */
+    margin-bottom: 50px;
+    margin-top: 25px;
+    margin-left: 50px;
+}
+
+.partie section {
+    padding: 10px;
+    width: 800px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    /* height: auto; */
+    background-color: var(--bg-color);
+    color: var(--text-color);
+
+}
+
+.partie img {
+    height: 400px;
+}
+
+.conclusion {
+    display: flex;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 50px;
+    background-color: rgb(128, 128, 128, 0.7);
+    background-color: var(--bg-color);
+    color: var(--text-color);
+    padding: 10px;
+}
+
+.conclusion section {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.boxAlexis {
+    padding-left: 250px;
+    padding-right: 250px;
+}
