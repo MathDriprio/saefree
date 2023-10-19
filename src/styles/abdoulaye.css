@@ -1,0 +1,117 @@
+body {
+    background-image: url("../images/fond d'ecran .jpg");
+}
+.body-image-wrapper-1erlogo img {
+    width: 400px;
+    height: 60%;
+}
+.body-text1erlogo {
+    background: white;
+    margin-right: 50px;
+    width: 30vw;
+    padding: 20px;
+    border-radius: 8px;
+}
+
+.body-image-wrapper-fibre img {
+    width: 35%;
+    height: 35%;  
+}
+.body-textfibre {
+    background: white;
+    width: 30vw;
+    padding: 20px;
+    border-radius: 8px;
+}
+
+.body-content1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: var(--body-content-padding);
+    width: calc(100vw - var(--navbar-margin));
+    margin: auto;
+}
+
+.body-content2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: var(--body-content-padding);
+    width: calc(100vw - var(--navbar-margin));
+    margin: auto;
+}
+
+.body-content3 {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: center;
+    align-items: center;
+    padding: var(--body-content-padding);
+    width: calc(100vw - var(--navbar-margin));
+    margin: auto;
+}
+
+
+
+.body-content4 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: var(--body-content-padding);
+    width: calc(100vw - var(--navbar-margin));
+    margin: auto;
+}
+
+.body-content2 img, .body-content4 img {
+    margin-left: 20px;
+}
+
+.body-content{
+    width: 100%;
+    flex-direction: column;
+}
+
+.body-image-wrapper-1erlogo img {
+    width: 400px;
+    height: 60%;
+}
+.body-text1erlogo {
+    background: var(--bg-color);
+    color: var(--text-color);
+    margin-right: 50px;
+    width: 30vw;
+    padding: 20px;
+    border-radius: 8px;
+}
+
+.body-image-wrapper-nav img {
+    width: 400px;
+    height: 60%;
+}
+
+.body-textnav {
+    background: var(--bg-color);
+    color: var(--text-color);
+    margin-right: 50px;
+    width: 30vw;
+    padding: 20px;
+    border-radius: 8px;
+}
+
+.body-image-wrapper-fibre img {
+    width: 400px;
+    height: 60%;
+}
+.body-textfibre {
+    background: var(--bg-color);
+    color: var(--text-color);
+    margin-right: 50px;
+    width: 30vw;
+    padding: 20px;
+    border-radius: 8px;
+}
+
+.body-content {
+    flex-direction: column;
+}
