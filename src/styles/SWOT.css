@@ -1,8 +1,3 @@
-.body-content{
-    display: flex;
-    
-
-}
 h1{
     margin: auto;
     padding: auto;
@@ -12,4 +7,50 @@ h2{
 }
 h3{
     padding: 5px;
+}
+main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+}
+
+main > h1 {
+    background: var(--bg-color);
+    width: max-content;
+    text-align: center;
+    margin-top: 50px;
+    font-size: 3rem;
+}
+
+section.contnue_page {
+    width: 100%;
+    padding: 0 5rem;
+    margin: 5rem 0;
+}
+
+section.contnue_page .body-text {
+    background: var(--bg-color);
+    color: var(--text-color);
+}
+
+section.contnue_page article {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 5rem;
+}
+
+section.contnue_page article:nth-child(2n) {
+    flex-direction: row-reverse;
+}
+
+section.contnue_page article:nth-child(2n) .body-text {
+    flex-direction: row-reverse;
+    margin-right: 0;
+    margin-left: 50px;
+}
+
+section.contnue_page article img {
+    width: 30vw;
 }
