@@ -5,7 +5,12 @@ main {
     width: 100%;
 }
 
-main > h1 {
+main .h1 {
+    display: flex;
+    justify-content: center;
+}
+
+main h1 {
     background: var(--bg-color);
     width: max-content;
     text-align: center;
