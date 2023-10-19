@@ -68,6 +68,22 @@ section.contnue_page .body-text {
     color: var(--text-color);
     border-radius: 0px 0px 8px 8px;
 }
+section.contnue_page .body-textmid {
+    background: var(--bg-color);
+    color: var(--text-color);
+    margin-right: 50px;
+    width: 30vw;
+    padding: 20px;
+    border-radius: 0px 0px 0px 0px;
+}
+section.contnue_page .body-textmidd {
+    background: var(--bg-color);
+    color: var(--text-color);
+    margin-left: 50px;
+    width: 30vw;
+    padding: 20px;
+    border-radius: 0px 0px 0px 0px;
+}
 
 section.contnue_page article {
     display: flex;
@@ -95,4 +111,7 @@ figcaption {
     font: italic smaller sans-serif;
     padding: 3px;
     text-align: center;
+  }
+  #image_{
+    width: 800px;
   }
