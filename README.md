@@ -17,9 +17,9 @@ Nous somme le groupe **N°7** composé de:
 
 Ce dépôt est pour le site web du SAE S1.05-06 fait en html/css/js et le framework BootStrap.
 Le site comprend les informations que nous avons trouvé sur [Sae Free](https://www.free.fr) et à l'aide de :
-- [Site1](https://www.google.com)
-- [Site2](https://www.google.com)
-- [Site3](https://www.google.com)
+- ["Il y a 20 ans aujourd’hui, naissait la Freebox, 1ère box triple play au monde"](https://www.capital.fr/entreprises-marches/free-iliad-a-gagne-des-millions-dabonnes-en-2022-devient-n6-en-europe-1463126)
+- ["Qui est le groupe Iliad, la maison-mère de l'opérateur Free ?"](https://selectra.info/telecom/fournisseurs/free/groupe-iliad)
+- ["Iliad a gagné des millions d'abonnés en 2022, devient n°6 en Europe"](https://www.capital.fr/entreprises-marches/free-iliad-a-gagne-des-millions-dabonnes-en-2022-devient-n6-en-europe-1463126)
 
 Nous avons comparé toutes nos sources entre elle pour sortir le contenu le plus fiable.
 
@@ -36,7 +36,7 @@ Pour la conception du zonning et le wireframe nous avons utilise [figma](https:/
 Vérification W3C : [Détail ICI](https://validator.w3.org/nu/?doc=https%3A%2F%2Fmathdriprio.github.io%2Fsaefree%2F)
 
 
-![capture d'écran de la conformité de la page ...](doc/capture_1_W3C.png)
+![capture d'écran de la conformité de la page ...](https://media.discordapp.net/attachments/1154315389191327774/1164918364204957808/image.png?ex=6544f5c5&is=653280c5&hm=99c1f241221c16ec022f02756c67bb807f25c93a851647f1f93911461d8963ee&=)
 
 ### Histoire
 
