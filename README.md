@@ -40,7 +40,7 @@ Vérification W3C : [Détail ICI](https://validator.w3.org/nu/?doc=https%3A%2F%2
 
 ### Histoire
 
-**Auteur : Alexendre Vialanie**  
+**Auteur : Alexendre Villanie**  
 
 Vérification W3C : [Détail ICI](https://validator.w3.org/nu/?doc=https%3A%2F%2Fmathdriprio.github.io%2Fsaefree%2Fhistoire.html)
 
@@ -73,3 +73,33 @@ Vérification W3C : [Détail ICI](https://validator.w3.org/nu/?doc=https%3A%2F%2
 
 
 ![capture d'écran de la conformité de la page ...](https://media.discordapp.net/attachments/1154315389191327774/1164915977570484336/capture-timothee.png?ex=6544f38c&is=65327e8c&hm=9712f904db3ae107d2f2c32f6cedec44d96c72740b56958a010218c2930e5e69&=s)
+
+## Répartition du travail
+
+### Planification - Diagramme de GANTT
+
+- Alexendre Villanie
+
+### Recherches d'informations
+
+- Alexis Violard
+- Aboulaye Diallo
+
+
+### Rapport économique
+
+- Dagbert Mathis
+- Villanie Alexendre
+- Vioalrd Alexis
+- Diallo Abdoulaye
+- Meyer Timothée
+
+### Développement site
+
+Page d'accueil : Meyer Timothée, Dagbert Mathis
+Template : Dagbert Mathis, Meyer Timothée, Diallo Abdoulaye
+Page histoire : Villani Alexendre
+Page écologie : Diallo Abdoulaye
+Page swot : Violard Alexis
+Page confidentialité : Dagbert Mathis
+Page information contable et financière : Meyer Timothée
