@@ -96,10 +96,10 @@ Vérification W3C : [Détail ICI](https://validator.w3.org/nu/?doc=https%3A%2F%2
 
 ### Développement site
 
-Page d'accueil : Meyer Timothée, Dagbert Mathis\n
-Template : Dagbert Mathis, Meyer Timothée, Diallo Abdoulaye\n
-Page histoire : Villani Alexendre\n
-Page écologie : Diallo Abdoulaye\n
-Page swot : Violard Alexis\n
-Page confidentialité : Dagbert Mathis\n
-Page information contable et financière : Meyer Timothée\n
+Page d'accueil : Meyer Timothée, Dagbert Mathis<br>
+Template : Dagbert Mathis, Meyer Timothée, Diallo Abdoulaye<br>
+Page histoire : Villani Alexendre<br>
+Page écologie : Diallo Abdoulaye<br>
+Page swot : Violard Alexis<br>
+Page confidentialité : Dagbert Mathis<br>
+Page information contable et financière : Meyer Timothée<br>
