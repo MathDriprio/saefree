@@ -5,7 +5,7 @@ Nous somme le groupe **N°7** composé de:
  
 > [Mathis Dagbert](mailto:mathis.dagbert@edu.univ-fcomte.fr) *référent*   
 >
-> [Alexendre Villani](mailto:alexandre.villani@edu.univ-fcomte.fr)
+> [Alexandre Villani](mailto:alexandre.villani@edu.univ-fcomte.fr)
 >
 > [Aboulaye Diallo](mailto:abdoulaye.diallo02@edu.univ-fcomte.fr)
 >
@@ -40,7 +40,7 @@ Vérification W3C : [Détail ICI](https://validator.w3.org/nu/?doc=https%3A%2F%2
 
 ### Histoire
 
-**Auteur : Alexendre Villani**  
+**Auteur : Alexandre Villani**  
 
 Vérification W3C : [Détail ICI](https://validator.w3.org/nu/?doc=https%3A%2F%2Fmathdriprio.github.io%2Fsaefree%2Fhistoire.html)
 
@@ -78,7 +78,7 @@ Vérification W3C : [Détail ICI](https://validator.w3.org/nu/?doc=https%3A%2F%2
 
 ### Planification - Diagramme de GANTT
 
-- Alexendre Villani
+- Alexandre Villani
 
 ### Recherches d'informations
 
@@ -89,7 +89,7 @@ Vérification W3C : [Détail ICI](https://validator.w3.org/nu/?doc=https%3A%2F%2
 ### Rapport économique
 
 - Dagbert Mathis
-- Villani Alexendre
+- Villani Alexandre
 - Vioalrd Alexis
 - Diallo Abdoulaye
 - Meyer Timothée
@@ -98,7 +98,7 @@ Vérification W3C : [Détail ICI](https://validator.w3.org/nu/?doc=https%3A%2F%2
 
 Page d'accueil : Meyer Timothée, Dagbert Mathis<br>
 Template : Dagbert Mathis, Meyer Timothée, Diallo Abdoulaye<br>
-Page histoire : Villani Alexendre<br>
+Page histoire : Villani Alexandre<br>
 Page écologie : Diallo Abdoulaye<br>
 Page swot : Violard Alexis<br>
 Page confidentialité : Dagbert Mathis<br>
