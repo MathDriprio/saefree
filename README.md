@@ -40,7 +40,7 @@ Vérification W3C : [Détail ICI](https://validator.w3.org/nu/?doc=https%3A%2F%2
 
 ### Histoire
 
-**Auteur : Alexendre Villanie**  
+**Auteur : Alexendre Villani**  
 
 Vérification W3C : [Détail ICI](https://validator.w3.org/nu/?doc=https%3A%2F%2Fmathdriprio.github.io%2Fsaefree%2Fhistoire.html)
 
@@ -78,7 +78,7 @@ Vérification W3C : [Détail ICI](https://validator.w3.org/nu/?doc=https%3A%2F%2
 
 ### Planification - Diagramme de GANTT
 
-- Alexendre Villanie
+- Alexendre Villani
 
 ### Recherches d'informations
 
@@ -89,7 +89,7 @@ Vérification W3C : [Détail ICI](https://validator.w3.org/nu/?doc=https%3A%2F%2
 ### Rapport économique
 
 - Dagbert Mathis
-- Villanie Alexendre
+- Villani Alexendre
 - Vioalrd Alexis
 - Diallo Abdoulaye
 - Meyer Timothée
